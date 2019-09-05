@@ -96,7 +96,7 @@
 </head>
 
 <body>
-	<svg></svg>
+	<svg width="1920" height="1200"></svg>
 	<script src="https://d3js.org/d3.v4.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script type="text/javascript">
@@ -111,7 +111,7 @@
 		var graph;
 
 		// load the data
-		d3.json("/data/processed.json", function (error, _graph) {
+		d3.json("../data/processed.json", function (error, _graph) {
 			if (error) throw error;
 			graph = _graph;
 			initializeDisplay();
