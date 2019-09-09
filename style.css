@@ -4,6 +4,10 @@ body {
   font-family: sans-serif;
 }
 
+.hidden {
+  display: none;
+}
+
 .land {
   fill: #dddddd;
 }
@@ -43,7 +47,7 @@ body {
 .highlight {
   opacity: 1 !important;
   /*stroke: red !important;*/
-  stroke-width: 3px !important;
+  stroke-width: 5px !important;
   stroke-opacity: 0.8 !important;
 }
 
@@ -58,3 +62,56 @@ g#voronoi {
   fill: white;
   text-shadow: 1px 1px 0 #252525, 1px -1px 0 #252525, -1px 1px 0 #252525, -1px -1px 0 #252525;
 }
+
+.form-control {
+  display: block;
+  width: 30%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  margin: 0 auto;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+
+/* 13. Basic Styling with CSS */
+
+/* Style the lines by removing the fill and applying a stroke */
+.line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+  
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+  
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+#graph {
+  width: 90%;
+}
+
+
+.bar {
+    fill: steelblue;
+  }
+
+  .bar:hover {
+    fill: brown;
+  }

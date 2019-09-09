@@ -1,0 +1,49 @@
+msmID,name,city,country,latitude,longitude,rtt_average,rtt_median,url
+22726587,42235 Intra Data Communication,,Mozambique,-18.25,35,202.583,202.937,www.up.ac.mz
+22726587,3491 PCCW Global Inc.,,Mozambique,37.751,-97.822,87.362,86.714,www.up.ac.mz
+22726587,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,60.994,18.07,www.up.ac.mz
+22726585,42235 Intra Data Communication,,Mozambique,-18.25,35,18.634,18.659,www.uem.mz
+22726585,3491 PCCW Global Inc.,,Mozambique,37.751,-97.822,17.086,17.099,www.uem.mz
+22726585,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,6.163,0.552,www.uem.mz
+22726581,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,114.111,113.532,www.uca.ma 
+22726581,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,102.537,101.969,www.uca.ma 
+22726579,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,148.747,148.91,www.uaq.ma
+22726579,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,162.462,162.482,www.uaq.ma
+22726549,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,16.709,16.744,www.sua.ac.tz
+22726549,37182 TERNET,,Tanzania,-6.8227,39.291,6.027,5.886,www.sua.ac.tz
+22726549,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963,39.2847,5.899,5.964,www.sua.ac.tz
+22726547,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,7.963,3.194,www.udsm.ac.tz
+22726547,37182 TERNET,,Tanzania,-6.8227,39.291,5.338,2.492,www.udsm.ac.tz
+22726547,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963,39.2847,6.64,2.949,www.udsm.ac.tz
+22726545,3491 PCCW Global Inc.,,Ghana,37.751,-97.822,223.283,223.216,www.knust.edu.gh
+22726545,327814 Ecoband,,Ghana,8,-2,6.842,6.878,www.knust.edu.gh
+22726545,30997 GIXA-AS,,Ghana,8,-2,5.872,5.786,www.knust.edu.gh
+22726543,3491 PCCW Global Inc.,,Ghana,37.751,-97.822,223.14,223.188,www.ug.edu.gh
+22726543,327814 Ecoband,,Ghana,8,-2,4.758,2.562,www.ug.edu.gh
+22726543,30997 GIXA-AS,,Ghana,8,-2,1.308,1.154,www.ug.edu.gh
+22726541,3208 ARN,,Algeria,36.7642,3.1468,5.508,5.209,www.univ-bejaia.dz 
+22726541,3208 ARN,,Algeria,36.7642,3.1468,5.34,4.782,www.univ-bejaia.dz 
+22726541,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,29.49,29.577,www.univ-bejaia.dz 
+22726537,8346 Autonomous System,,Senegal,14,-14,10.182,9.036,www.ugb.sn
+22726537,327809 ARC-Informatique,,Senegal,14,-14,71.599,55.657,www.ugb.sn
+22726537,8346 Autonomous System,,Senegal,14,-14,6.58,5.729,www.ugb.sn
+22726535,8346 Autonomous System,,Senegal,14,-14,211.286,215.208,www.ucad.sn
+22726535,327809 ARC-Informatique,,Senegal,14,-14,278.123,246.123,www.ucad.sn
+22726535,8346 Autonomous System,,Senegal,14,-14,228.938,242.685,www.ucad.sn
+22726533,36914 Kenya Education Network,,Kenya,1,38,7.022,6.407,www.ku.ac.ke
+22726533,36914 Kenya Education Network,,Kenya,1,38,6.986,6.736,www.ku.ac.ke
+22726531,36914 Kenya Education Network,,Kenya,1,38,18.858,18.858,www.uonbi.ac.ke
+22726531,36914 Kenya Education Network,,Kenya,1,38,11.58,11.58,www.uonbi.ac.ke
+22726531,37684 ANGANI-AS,,Kenya,1,38,7.971,2.928,www.uonbi.ac.ke
+22726529,37286 NG-ICT-FORUM,,Nigeria,10,8,28.775,27.074,www.unilag.edu.ng 
+22726529,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,2.66,1.268,www.unilag.edu.ng 
+22726529,37420 UNIV-JOS,,Nigeria,10,8,22.57,22.614,www.unilag.edu.ng 
+22726527,37286 NG-ICT-FORUM,,Nigeria,10,8,226.122,226.097,www.abu.edu.ng
+22726527,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,206.13,206.119,www.abu.edu.ng
+22726527,37420 UNIV-JOS,,Nigeria,10,8,225.593,225.577,www.abu.edu.ng
+22726521,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,88.388,88.22,www.aucegypt.edu
+22726521,8452 TE-AS,,Egypt,30.0355,31.223,87.734,87.141,www.aucegypt.edu
+22726519,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,5.11,3.648,www.uwc.ac.za
+22726519,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,4.07,2.554,www.uwc.ac.za
+22726519,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,3.051,3.0515,www.uwc.ac.za
+22726517,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,6.25,0.627,www.uct.ac.za

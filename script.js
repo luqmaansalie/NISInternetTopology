@@ -1,3 +1,13 @@
+
+var urlParams = new URLSearchParams(window.location.search);
+var filtercountry = urlParams.get('country');
+
+var linksinter = "../data/linksinterAll.csv"
+
+if (filtercountry != null && filtercountry != "All") {
+  linksinter = "../data/linksinter" + filtercountry + ".csv"
+}
+
 var urls = {
   // source: https://observablehq.com/@mbostock/u-s-airports-voronoi
   // source: https://github.com/topojson/us-atlas
@@ -6,11 +16,10 @@ var urls = {
 
   // source: https://gist.github.com/mbostock/7608400
   airports:
-    "../data/nodes.csv",
+    "../data/nodesinter.csv",
 
   // source: https://gist.github.com/mbostock/7608400
-  flights:
-    "../data/links.csv"
+  flights: linksinter
 };
 
 var svg  = d3.select("svg");
@@ -43,13 +52,13 @@ var g = {
   voronoi:  svg.select("g#voronoi")
 };
 
-console.assert(g.basemap.size()  === 1);
-console.assert(g.flights.size()  === 1);
-console.assert(g.airports.size() === 1);
-console.assert(g.voronoi.size()  === 1);
+//console.assert(g.basemap.size()  === 1);
+//console.assert(g.flights.size()  === 1);
+//console.assert(g.airports.size() === 1);
+//console.assert(g.voronoi.size()  === 1);
 
 var tooltip = d3.select("text#tooltip");
-console.assert(tooltip.size() === 1);
+//console.assert(tooltip.size() === 1);
 
 // load and draw base map
 d3.json(urls.map).then(drawMap);
@@ -80,16 +89,17 @@ function applyColours() {
 
 // process airport and flight data
 function processData(values) {
-  console.assert(values.length === 2);
+  //console.assert(values.length === 2);
 
   let airports = values[0];
   let flights  = values[1];
 
-  console.log("airports: " + airports.length);
-  console.log(" flights: " + flights.length);
+  //console.log("airports: " + airports.length);
+  //console.log(" flights: " + flights.length);
 
   // convert airports array (pre filter) into map for fast lookup
   let iata = new Map(airports.map(node => [node.iata, node]));
+
 
   // calculate incoming and outgoing degree based on flights
   // flights are given by airport iata code (not index)
@@ -104,25 +114,38 @@ function processData(values) {
   // remove airports out of bounds
   let old = airports.length;
   airports = airports.filter(airport => airport.x >= 0 && airport.y >= 0);
-  console.log(" removed: " + (old - airports.length) + " airports out of bounds");
+  //console.log(" removed: " + (old - airports.length) + " airports out of bounds");
 
   // remove airports with NA state
   old = airports.length;
-  airports = airports.filter(airport => airport.state !== "NA");
-  console.log(" removed: " + (old - airports.length) + " airports with NA state");
+  //airports = airports.filter(airport => airport.state !== "NA");
+  //console.log(" removed: " + (old - airports.length) + " airports with NA state");
+
+
+
+  
+
+  if (filtercountry != null && filtercountry != "All") {
+    //console.log("filtering");
+    old = airports.length;
+    //console.log(filtercountry.toLowerCase());
+
+    $('#sCountry').val(filtercountry);
+    airports = airports.filter(airport => airport.s.toLowerCase().indexOf(filtercountry.toLowerCase()) > -1);
+  }
 
   // remove airports without any flights
   old = airports.length;
   airports = airports.filter(airport => airport.outgoing > 0 && airport.incoming > 0);
-  console.log(" removed: " + (old - airports.length) + " airports without flights");
+  //console.log(" removed: " + (old - airports.length) + " airports without flights");
 
   // sort airports by outgoing degree
   airports.sort((a, b) => d3.descending(a.outgoing, b.outgoing));
 
   // keep only the top airports
   old = airports.length;
-  airports = airports.slice(0, 50);
-  console.log(" removed: " + (old - airports.length) + " airports with low outgoing degree");
+  //airports = airports.slice(0, 50);
+  //console.log(" removed: " + (old - airports.length) + " airports with low outgoing degree");
 
   // done filtering airports can draw
   drawAirports(airports);
@@ -134,13 +157,13 @@ function processData(values) {
   // filter out flights that are not between airports we have leftover
   old = flights.length;
   flights = flights.filter(link => iata.has(link.source.iata) && iata.has(link.target.iata));
-  console.log(" removed: " + (old - flights.length) + " flights");
+  //console.log(" removed: " + (old - flights.length) + " flights");
 
   // done filtering flights can draw
   drawFlights(airports, flights);
 
-  console.log({airports: airports});
-  console.log({flights: flights});
+  //console.log({airports: airports});
+  //console.log({flights: flights});
 }
 
 // draws the underlying map
@@ -218,7 +241,7 @@ function drawPolygons(airports) {
 
   // calculate voronoi polygons
   let polygons = d3.geoVoronoi().polygons(geojson);
-  console.log(polygons);
+  //console.log(polygons);
 
   g.voronoi.selectAll("path")
     .data(polygons.features)
@@ -302,8 +325,8 @@ function drawFlights(airports, flights) {
     .attr("d", line)
     .attr("class", "flight")
     .attr("data-asn", function(d) {
-      console.log(d);
-      console.log(d[0].iata);
+      //console.log(d);
+      //console.log(d[0].iata);
       return "" + d[0].iata;
     })
     /*.attr("style", function(d) {
@@ -334,7 +357,7 @@ function drawFlights(airports, flights) {
       links.attr("d", line);
     })
     .on("end", function(d) {
-      console.log("layout complete");
+      //console.log("layout complete");
     });
 
   layout.nodes(bundle.nodes).force("link").links(bundle.links);
@@ -456,7 +479,7 @@ function distance(source, target) {
 var asnColours = {};
 
 function getRandomColor(asn) {
-  console.log(asn + " " + asnColours[asn]);
+  //console.log(asn + " " + asnColours[asn]);
   if (asn in asnColours) {
     return asnColours[asn];
   }
@@ -470,3 +493,7 @@ function getRandomColor(asn) {
   asnColours[asn] = color;
   return color;
 }
+
+$(document).on('change', '#sCountry', function(){
+  top.location.href = '/mapv2.html?country=' + $(this).val();
+});

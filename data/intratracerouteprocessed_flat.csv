@@ -1,0 +1,61 @@
+msmID,source,name,city,country,latitude,longitude,hops
+www.uem.mz,Mozambique,42235 Intra Data Communication,,Mozambique,-18.25,35.0,14
+www.uem.mz,Mozambique,3491 PCCW Global Inc.,,United States,37.751,-97.822,5
+www.uem.mz,Mozambique,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,2
+www.uaq.ma,Morocco,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,15
+www.uaq.ma,Morocco,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,15
+www.uaq.ma,Morocco,36903 MT-MPLS,Kenitra,Morocco,34.261,-6.5802,15
+www.udsm.ac.tz,Tanzania,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,11
+www.udsm.ac.tz,Tanzania,37182 TERNET,,Tanzania,-6.8227,39.291,7
+www.udsm.ac.tz,Tanzania,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,8
+www.ug.edu.gh,Ghana,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.ug.edu.gh,Ghana,327814 Ecoband,,Ghana,8.0,-2.0,9
+www.ug.edu.gh,Ghana,30997 GIXA-AS,,Ghana,8.0,-2.0,6
+www.univ-tlemcen.dz,Algeria,3208 ARN,,Algeria,36.7642,3.1468,10
+www.univ-tlemcen.dz,Algeria,3208 ARN,,Algeria,36.7642,3.1468,9
+www.univ-tlemcen.dz,Algeria,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,18
+www.ucad.sn,Senegal,8346 Autonomous System,,Senegal,14.0,-14.0,8
+www.ucad.sn,Senegal,327809 ARC-Informatique,,Senegal,14.0,-14.0,12
+www.ucad.sn,Senegal,8346 Autonomous System,,Senegal,14.0,-14.0,11
+www.uonbi.ac.ke,Kenya,36914 Kenya Education Network,,Kenya,1.0,38.0,3
+www.uonbi.ac.ke,Kenya,36914 Kenya Education Network,,Kenya,1.0,38.0,4
+www.uonbi.ac.ke,Kenya,37684 ANGANI-AS,,Kenya,1.0,38.0,6
+www.abu.edu.ng,Nigeria,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,16
+www.abu.edu.ng,Nigeria,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,11
+www.abu.edu.ng,Nigeria,37420 UNIV-JOS,,Nigeria,10.0,8.0,15
+www.aucegypt.edu,Egypt,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.aucegypt.edu,Egypt,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,16
+www.aucegypt.edu,Egypt,8452 TE-AS,,Egypt,30.0355,31.223,26
+www.uct.ac.za,SA,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,5
+www.uct.ac.za,SA,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,15
+www.uct.ac.za,SA,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,15
+www.up.ac.mz,Mozambique,42235 Intra Data Communication,,Mozambique,-18.25,35.0,27
+www.up.ac.mz,Mozambique,3491 PCCW Global Inc.,,United States,37.751,-97.822,8
+www.up.ac.mz,Mozambique,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,6
+www.uca.ma,Morocco,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,13
+www.uca.ma,Morocco,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,13
+www.uca.ma,Morocco,36903 MT-MPLS,Kenitra,Morocco,34.261,-6.5802,13
+www.sua.ac.tz,Tanzania,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,8
+www.sua.ac.tz,Tanzania,37182 TERNET,,Tanzania,-6.8227,39.291,6
+www.sua.ac.tz,Tanzania,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,7
+www.knust.edu.gh,Ghana,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.knust.edu.gh,Ghana,327814 Ecoband,,Ghana,8.0,-2.0,9
+www.knust.edu.gh,Ghana,30997 GIXA-AS,,Ghana,8.0,-2.0,6
+www.univ-bejaia.dz,Algeria,3208 ARN,,Algeria,36.7642,3.1468,5
+www.univ-bejaia.dz,Algeria,3208 ARN,,Algeria,36.7642,3.1468,4
+www.univ-bejaia.dz,Algeria,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,11
+www.ugb.sn,Senegal,8346 Autonomous System,,Senegal,14.0,-14.0,10
+www.ugb.sn,Senegal,327809 ARC-Informatique,,Senegal,14.0,-14.0,16
+www.ugb.sn,Senegal,8346 Autonomous System,,Senegal,14.0,-14.0,14
+www.ku.ac.ke,Kenya,36914 Kenya Education Network,,Kenya,1.0,38.0,7
+www.ku.ac.ke,Kenya,36914 Kenya Education Network,,Kenya,1.0,38.0,7
+www.ku.ac.ke,Kenya,37684 ANGANI-AS,,Kenya,1.0,38.0,12
+www.unilag.edu.ng,Nigeria,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,7
+www.unilag.edu.ng,Nigeria,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,5
+www.unilag.edu.ng,Nigeria,37420 UNIV-JOS,,Nigeria,10.0,8.0,7
+www.cu.edu.eg,Egypt,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.cu.edu.eg,Egypt,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,14
+www.cu.edu.eg,Egypt,8452 TE-AS,,Egypt,30.0355,31.223,15
+www.uwc.ac.za,SA,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,8
+www.uwc.ac.za,SA,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,11
+www.uwc.ac.za,SA,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,11
