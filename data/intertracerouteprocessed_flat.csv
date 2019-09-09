@@ -1,0 +1,541 @@
+msmID,source,name,city,country,latitude,longitude,hops
+www.sua.ac.tz,Tanzania,36914 Kenya Education Network,,Kenya,1.0,38.0,11
+www.sua.ac.tz,Tanzania,36914 Kenya Education Network,,Kenya,1.0,38.0,12
+www.sua.ac.tz,Tanzania,37684 ANGANI-AS,,Kenya,1.0,38.0,11
+www.udsm.ac.tz,Tanzania,36914 Kenya Education Network,,Kenya,1.0,38.0,11
+www.udsm.ac.tz,Tanzania,36914 Kenya Education Network,,Kenya,1.0,38.0,12
+www.udsm.ac.tz,Tanzania,37684 ANGANI-AS,,Kenya,1.0,38.0,11
+www.up.ac.mz,Mozambique,36914 Kenya Education Network,,Kenya,1.0,38.0,12
+www.up.ac.mz,Mozambique,36914 Kenya Education Network,,Kenya,1.0,38.0,13
+www.up.ac.mz,Mozambique,37684 ANGANI-AS,,Kenya,1.0,38.0,12
+www.uem.mz,Mozambique,36914 Kenya Education Network,,Kenya,1.0,38.0,9
+www.uem.mz,Mozambique,36914 Kenya Education Network,,Kenya,1.0,38.0,10
+www.uem.mz,Mozambique,37684 ANGANI-AS,,Kenya,1.0,38.0,12
+www.knust.edu.gh,Ghana,36914 Kenya Education Network,,Kenya,1.0,38.0,16
+www.knust.edu.gh,Ghana,36914 Kenya Education Network,,Kenya,1.0,38.0,17
+www.knust.edu.gh,Ghana,37684 ANGANI-AS,,Kenya,1.0,38.0,17
+www.ug.edu.gh,Ghana,36914 Kenya Education Network,,Kenya,1.0,38.0,16
+www.ug.edu.gh,Ghana,36914 Kenya Education Network,,Kenya,1.0,38.0,17
+www.ug.edu.gh,Ghana,37684 ANGANI-AS,,Kenya,1.0,38.0,15
+www.univ-bejaia.dz,Algeria,36914 Kenya Education Network,,Kenya,1.0,38.0,15
+www.univ-bejaia.dz,Algeria,36914 Kenya Education Network,,Kenya,1.0,38.0,16
+www.univ-bejaia.dz,Algeria,37684 ANGANI-AS,,Kenya,1.0,38.0,13
+www.univ-tlemcen.dz,Algeria,36914 Kenya Education Network,,Kenya,1.0,38.0,20
+www.univ-tlemcen.dz,Algeria,36914 Kenya Education Network,,Kenya,1.0,38.0,21
+www.univ-tlemcen.dz,Algeria,37684 ANGANI-AS,,Kenya,1.0,38.0,18
+www.uca.ma,Morocco,36914 Kenya Education Network,,Kenya,1.0,38.0,11
+www.uca.ma,Morocco,36914 Kenya Education Network,,Kenya,1.0,38.0,12
+www.uca.ma,Morocco,37684 ANGANI-AS,,Kenya,1.0,38.0,14
+www.uaq.ma,Morocco,36914 Kenya Education Network,,Kenya,1.0,38.0,13
+www.uaq.ma,Morocco,36914 Kenya Education Network,,Kenya,1.0,38.0,14
+www.uaq.ma,Morocco,37684 ANGANI-AS,,Kenya,1.0,38.0,18
+www.ugb.sn,Senegal,36914 Kenya Education Network,,Kenya,1.0,38.0,19
+www.ugb.sn,Senegal,36914 Kenya Education Network,,Kenya,1.0,38.0,20
+www.ugb.sn,Senegal,37684 ANGANI-AS,,Kenya,1.0,38.0,17
+www.ucad.sn,Senegal,36914 Kenya Education Network,,Kenya,1.0,38.0,16
+www.ucad.sn,Senegal,36914 Kenya Education Network,,Kenya,1.0,38.0,16
+www.ucad.sn,Senegal,37684 ANGANI-AS,,Kenya,1.0,38.0,13
+www.unilag.edu.ng,Nigeria,36914 Kenya Education Network,,Kenya,1.0,38.0,9
+www.unilag.edu.ng,Nigeria,36914 Kenya Education Network,,Kenya,1.0,38.0,10
+www.unilag.edu.ng,Nigeria,37684 ANGANI-AS,,Kenya,1.0,38.0,10
+www.abu.edu.ng,Nigeria,36914 Kenya Education Network,,Kenya,1.0,38.0,14
+www.abu.edu.ng,Nigeria,36914 Kenya Education Network,,Kenya,1.0,38.0,15
+www.abu.edu.ng,Nigeria,37684 ANGANI-AS,,Kenya,1.0,38.0,14
+www.cu.edu.eg,Egypt,36914 Kenya Education Network,,Kenya,1.0,38.0,14
+www.cu.edu.eg,Egypt,36914 Kenya Education Network,,Kenya,1.0,38.0,15
+www.cu.edu.eg,Egypt,37684 ANGANI-AS,,Kenya,1.0,38.0,14
+www.aucegypt.edu,Egypt,36914 Kenya Education Network,,Kenya,1.0,38.0,21
+www.aucegypt.edu,Egypt,36914 Kenya Education Network,,Kenya,1.0,38.0,22
+www.aucegypt.edu,Egypt,37684 ANGANI-AS,,Kenya,1.0,38.0,25
+www.uwc.ac.za,SA,36914 Kenya Education Network,,Kenya,1.0,38.0,12
+www.uwc.ac.za,SA,36914 Kenya Education Network,,Kenya,1.0,38.0,13
+www.uwc.ac.za,SA,37684 ANGANI-AS,,Kenya,1.0,38.0,15
+www.uct.ac.za,SA,36914 Kenya Education Network,,Kenya,1.0,38.0,17
+www.uct.ac.za,SA,36914 Kenya Education Network,,Kenya,1.0,38.0,18
+www.uct.ac.za,SA,37684 ANGANI-AS,,Kenya,1.0,38.0,19
+www.sua.ac.tz,Tanzania,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.sua.ac.tz,Tanzania,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,11
+www.sua.ac.tz,Tanzania,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,10
+www.udsm.ac.tz,Tanzania,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.udsm.ac.tz,Tanzania,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,12
+www.udsm.ac.tz,Tanzania,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,13
+www.up.ac.mz,Mozambique,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,24
+www.up.ac.mz,Mozambique,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.up.ac.mz,Mozambique,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,15
+www.uem.mz,Mozambique,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,11
+www.uem.mz,Mozambique,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.uem.mz,Mozambique,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,12
+www.knust.edu.gh,Ghana,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,15
+www.knust.edu.gh,Ghana,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.knust.edu.gh,Ghana,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,15
+www.ug.edu.gh,Ghana,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,11
+www.ug.edu.gh,Ghana,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.ug.edu.gh,Ghana,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,11
+www.univ-bejaia.dz,Algeria,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,18
+www.univ-bejaia.dz,Algeria,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.univ-bejaia.dz,Algeria,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,13
+www.univ-tlemcen.dz,Algeria,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,23
+www.univ-tlemcen.dz,Algeria,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.univ-tlemcen.dz,Algeria,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,18
+www.uca.ma,Morocco,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.uca.ma,Morocco,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,15
+www.uca.ma,Morocco,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,14
+www.uaq.ma,Morocco,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.uaq.ma,Morocco,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,13
+www.uaq.ma,Morocco,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,16
+www.ugb.sn,Senegal,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.ugb.sn,Senegal,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,18
+www.ugb.sn,Senegal,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,18
+www.ucad.sn,Senegal,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.ucad.sn,Senegal,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,14
+www.ucad.sn,Senegal,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,14
+www.ku.ac.ke,Kenya,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.ku.ac.ke,Kenya,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,16
+www.ku.ac.ke,Kenya,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,19
+www.uonbi.ac.ke,Kenya,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.uonbi.ac.ke,Kenya,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,11
+www.uonbi.ac.ke,Kenya,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,11
+www.unilag.edu.ng,Nigeria,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.unilag.edu.ng,Nigeria,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,9
+www.unilag.edu.ng,Nigeria,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,11
+www.abu.edu.ng,Nigeria,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.abu.edu.ng,Nigeria,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,15
+www.abu.edu.ng,Nigeria,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,13
+www.cu.edu.eg,Egypt,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.cu.edu.eg,Egypt,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,18
+www.cu.edu.eg,Egypt,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,20
+www.aucegypt.edu,Egypt,36982 UCT,Cape Town,South Africa,-33.9258,18.4259,9
+www.aucegypt.edu,Egypt,36874 Cybersmart,Cape Town,South Africa,-33.9258,18.4259,20
+www.aucegypt.edu,Egypt,37611 Afrihost,Cape Town,South Africa,-33.9165,18.4155,20
+www.sua.ac.tz,Tanzania,8346 Autonomous System,,Senegal,14.0,-14.0,16
+www.sua.ac.tz,Tanzania,327809 ARC-Informatique,,Senegal,14.0,-14.0,18
+www.sua.ac.tz,Tanzania,8346 Autonomous System,,Senegal,14.0,-14.0,19
+www.udsm.ac.tz,Tanzania,8346 Autonomous System,,Senegal,14.0,-14.0,17
+www.udsm.ac.tz,Tanzania,327809 ARC-Informatique,,Senegal,14.0,-14.0,19
+www.udsm.ac.tz,Tanzania,8346 Autonomous System,,Senegal,14.0,-14.0,20
+www.up.ac.mz,Mozambique,8346 Autonomous System,,Senegal,14.0,-14.0,17
+www.up.ac.mz,Mozambique,327809 ARC-Informatique,,Senegal,14.0,-14.0,16
+www.up.ac.mz,Mozambique,8346 Autonomous System,,Senegal,14.0,-14.0,20
+www.uem.mz,Mozambique,8346 Autonomous System,,Senegal,14.0,-14.0,17
+www.uem.mz,Mozambique,327809 ARC-Informatique,,Senegal,14.0,-14.0,17
+www.uem.mz,Mozambique,8346 Autonomous System,,Senegal,14.0,-14.0,20
+www.knust.edu.gh,Ghana,8346 Autonomous System,,Senegal,14.0,-14.0,12
+www.knust.edu.gh,Ghana,327809 ARC-Informatique,,Senegal,14.0,-14.0,21
+www.knust.edu.gh,Ghana,8346 Autonomous System,,Senegal,14.0,-14.0,15
+www.ug.edu.gh,Ghana,8346 Autonomous System,,Senegal,14.0,-14.0,15
+www.ug.edu.gh,Ghana,327809 ARC-Informatique,,Senegal,14.0,-14.0,18
+www.ug.edu.gh,Ghana,8346 Autonomous System,,Senegal,14.0,-14.0,18
+www.univ-bejaia.dz,Algeria,8346 Autonomous System,,Senegal,14.0,-14.0,23
+www.univ-bejaia.dz,Algeria,327809 ARC-Informatique,,Senegal,14.0,-14.0,22
+www.univ-bejaia.dz,Algeria,8346 Autonomous System,,Senegal,14.0,-14.0,26
+www.univ-tlemcen.dz,Algeria,8346 Autonomous System,,Senegal,14.0,-14.0,28
+www.univ-tlemcen.dz,Algeria,327809 ARC-Informatique,,Senegal,14.0,-14.0,27
+www.univ-tlemcen.dz,Algeria,8346 Autonomous System,,Senegal,14.0,-14.0,31
+www.uca.ma,Morocco,8346 Autonomous System,,Senegal,14.0,-14.0,17
+www.uca.ma,Morocco,327809 ARC-Informatique,,Senegal,14.0,-14.0,15
+www.uca.ma,Morocco,8346 Autonomous System,,Senegal,14.0,-14.0,20
+www.uaq.ma,Morocco,8346 Autonomous System,,Senegal,14.0,-14.0,16
+www.uaq.ma,Morocco,327809 ARC-Informatique,,Senegal,14.0,-14.0,17
+www.uaq.ma,Morocco,8346 Autonomous System,,Senegal,14.0,-14.0,19
+www.ku.ac.ke,Kenya,8346 Autonomous System,,Senegal,14.0,-14.0,25
+www.ku.ac.ke,Kenya,327809 ARC-Informatique,,Senegal,14.0,-14.0,21
+www.ku.ac.ke,Kenya,8346 Autonomous System,,Senegal,14.0,-14.0,28
+www.uonbi.ac.ke,Kenya,8346 Autonomous System,,Senegal,14.0,-14.0,20
+www.uonbi.ac.ke,Kenya,327809 ARC-Informatique,,Senegal,14.0,-14.0,16
+www.uonbi.ac.ke,Kenya,8346 Autonomous System,,Senegal,14.0,-14.0,23
+www.unilag.edu.ng,Nigeria,8346 Autonomous System,,Senegal,14.0,-14.0,12
+www.unilag.edu.ng,Nigeria,327809 ARC-Informatique,,Senegal,14.0,-14.0,17
+www.unilag.edu.ng,Nigeria,8346 Autonomous System,,Senegal,14.0,-14.0,15
+www.abu.edu.ng,Nigeria,8346 Autonomous System,,Senegal,14.0,-14.0,16
+www.abu.edu.ng,Nigeria,327809 ARC-Informatique,,Senegal,14.0,-14.0,15
+www.abu.edu.ng,Nigeria,8346 Autonomous System,,Senegal,14.0,-14.0,19
+www.cu.edu.eg,Egypt,8346 Autonomous System,,Senegal,14.0,-14.0,17
+www.cu.edu.eg,Egypt,327809 ARC-Informatique,,Senegal,14.0,-14.0,17
+www.cu.edu.eg,Egypt,8346 Autonomous System,,Senegal,14.0,-14.0,20
+www.aucegypt.edu,Egypt,8346 Autonomous System,,Senegal,14.0,-14.0,21
+www.aucegypt.edu,Egypt,327809 ARC-Informatique,,Senegal,14.0,-14.0,15
+www.aucegypt.edu,Egypt,8346 Autonomous System,,Senegal,14.0,-14.0,19
+www.uwc.ac.za,SA,8346 Autonomous System,,Senegal,14.0,-14.0,22
+www.uwc.ac.za,SA,327809 ARC-Informatique,,Senegal,14.0,-14.0,18
+www.uwc.ac.za,SA,8346 Autonomous System,,Senegal,14.0,-14.0,25
+www.uct.ac.za,SA,8346 Autonomous System,,Senegal,14.0,-14.0,26
+www.uct.ac.za,SA,327809 ARC-Informatique,,Senegal,14.0,-14.0,22
+www.uct.ac.za,SA,8346 Autonomous System,,Senegal,14.0,-14.0,29
+www.sua.ac.tz,Tanzania,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,16
+www.sua.ac.tz,Tanzania,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,13
+www.sua.ac.tz,Tanzania,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,13
+www.udsm.ac.tz,Tanzania,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.udsm.ac.tz,Tanzania,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,12
+www.udsm.ac.tz,Tanzania,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,16
+www.up.ac.mz,Mozambique,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,11
+www.up.ac.mz,Mozambique,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.up.ac.mz,Mozambique,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,18
+www.uem.mz,Mozambique,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,12
+www.uem.mz,Mozambique,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,17
+www.uem.mz,Mozambique,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,16
+www.knust.edu.gh,Ghana,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,9
+www.knust.edu.gh,Ghana,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,11
+www.knust.edu.gh,Ghana,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,11
+www.ug.edu.gh,Ghana,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,9
+www.ug.edu.gh,Ghana,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,11
+www.ug.edu.gh,Ghana,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,11
+www.univ-bejaia.dz,Algeria,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,14
+www.univ-bejaia.dz,Algeria,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.univ-bejaia.dz,Algeria,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,22
+www.univ-tlemcen.dz,Algeria,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,19
+www.univ-tlemcen.dz,Algeria,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.univ-tlemcen.dz,Algeria,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,27
+www.uca.ma,Morocco,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,17
+www.uca.ma,Morocco,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,12
+www.uca.ma,Morocco,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,16
+www.uaq.ma,Morocco,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.uaq.ma,Morocco,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,14
+www.uaq.ma,Morocco,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,14
+www.ugb.sn,Senegal,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,20
+www.ugb.sn,Senegal,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,18
+www.ugb.sn,Senegal,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,20
+www.ucad.sn,Senegal,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,17
+www.ucad.sn,Senegal,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,13
+www.ucad.sn,Senegal,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,16
+www.ku.ac.ke,Kenya,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.ku.ac.ke,Kenya,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,14
+www.ku.ac.ke,Kenya,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,20
+www.uonbi.ac.ke,Kenya,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,16
+www.uonbi.ac.ke,Kenya,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,8
+www.uonbi.ac.ke,Kenya,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,15
+www.cu.edu.eg,Egypt,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.cu.edu.eg,Egypt,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,11
+www.cu.edu.eg,Egypt,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,15
+www.aucegypt.edu,Egypt,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,9
+www.aucegypt.edu,Egypt,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,19
+www.aucegypt.edu,Egypt,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,23
+www.uwc.ac.za,SA,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,18
+www.uwc.ac.za,SA,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,12
+www.uwc.ac.za,SA,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,17
+www.uct.ac.za,SA,37286 NG-ICT-FORUM,,Nigeria,10.0,8.0,22
+www.uct.ac.za,SA,37282 MAINONE,Lagos,Nigeria,6.4474,3.3903,17
+www.uct.ac.za,SA,37661 NRaE1-AS,Lagos,Nigeria,6.4474,3.3903,21
+www.up.ac.mz,Mozambique,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,23
+www.up.ac.mz,Mozambique,37182 TERNET,,Tanzania,-6.8227,39.291,22
+www.up.ac.mz,Mozambique,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,17
+www.uem.mz,Mozambique,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,13
+www.uem.mz,Mozambique,37182 TERNET,,Tanzania,-6.8227,39.291,9
+www.uem.mz,Mozambique,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,10
+www.knust.edu.gh,Ghana,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,19
+www.knust.edu.gh,Ghana,37182 TERNET,,Tanzania,-6.8227,39.291,18
+www.knust.edu.gh,Ghana,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,16
+www.ug.edu.gh,Ghana,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,20
+www.ug.edu.gh,Ghana,37182 TERNET,,Tanzania,-6.8227,39.291,15
+www.ug.edu.gh,Ghana,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,17
+www.univ-bejaia.dz,Algeria,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,21
+www.univ-bejaia.dz,Algeria,37182 TERNET,,Tanzania,-6.8227,39.291,14
+www.univ-bejaia.dz,Algeria,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,13
+www.univ-tlemcen.dz,Algeria,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,26
+www.univ-tlemcen.dz,Algeria,37182 TERNET,,Tanzania,-6.8227,39.291,19
+www.univ-tlemcen.dz,Algeria,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,18
+www.uca.ma,Morocco,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,16
+www.uca.ma,Morocco,37182 TERNET,,Tanzania,-6.8227,39.291,15
+www.uca.ma,Morocco,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,16
+www.uaq.ma,Morocco,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,17
+www.uaq.ma,Morocco,37182 TERNET,,Tanzania,-6.8227,39.291,19
+www.uaq.ma,Morocco,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,19
+www.ugb.sn,Senegal,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,18
+www.ugb.sn,Senegal,37182 TERNET,,Tanzania,-6.8227,39.291,18
+www.ugb.sn,Senegal,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,23
+www.ucad.sn,Senegal,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,15
+www.ucad.sn,Senegal,37182 TERNET,,Tanzania,-6.8227,39.291,14
+www.ucad.sn,Senegal,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,18
+www.ku.ac.ke,Kenya,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,16
+www.ku.ac.ke,Kenya,37182 TERNET,,Tanzania,-6.8227,39.291,17
+www.ku.ac.ke,Kenya,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,17
+www.uonbi.ac.ke,Kenya,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,10
+www.uonbi.ac.ke,Kenya,37182 TERNET,,Tanzania,-6.8227,39.291,11
+www.uonbi.ac.ke,Kenya,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,11
+www.unilag.edu.ng,Nigeria,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,17
+www.unilag.edu.ng,Nigeria,37182 TERNET,,Tanzania,-6.8227,39.291,11
+www.unilag.edu.ng,Nigeria,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,12
+www.abu.edu.ng,Nigeria,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,17
+www.abu.edu.ng,Nigeria,37182 TERNET,,Tanzania,-6.8227,39.291,15
+www.abu.edu.ng,Nigeria,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,16
+www.cu.edu.eg,Egypt,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,16
+www.cu.edu.eg,Egypt,37182 TERNET,,Tanzania,-6.8227,39.291,17
+www.cu.edu.eg,Egypt,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,17
+www.aucegypt.edu,Egypt,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,17
+www.aucegypt.edu,Egypt,37182 TERNET,,Tanzania,-6.8227,39.291,25
+www.aucegypt.edu,Egypt,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,26
+www.uwc.ac.za,SA,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,20
+www.uwc.ac.za,SA,37182 TERNET,,Tanzania,-6.8227,39.291,15
+www.uwc.ac.za,SA,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,17
+www.uct.ac.za,SA,37084 Simbanet (T) Ltd,,Tanzania,-6.8227,39.291,24
+www.uct.ac.za,SA,37182 TERNET,,Tanzania,-6.8227,39.291,19
+www.uct.ac.za,SA,327900 SIMPLYCONNECT-Simply-Computers,Dar es Salaam,Tanzania,-6.7963000000000005,39.2847,21
+www.sua.ac.tz,Tanzania,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.sua.ac.tz,Tanzania,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,13
+www.sua.ac.tz,Tanzania,42235 Intra Data Communication,,Mozambique,-18.25,35.0,19
+www.udsm.ac.tz,Tanzania,3491 PCCW Global Inc.,,United States,37.751,-97.822,11
+www.udsm.ac.tz,Tanzania,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,11
+www.udsm.ac.tz,Tanzania,42235 Intra Data Communication,,Mozambique,-18.25,35.0,15
+www.knust.edu.gh,Ghana,42235 Intra Data Communication,,Mozambique,-18.25,35.0,14
+www.knust.edu.gh,Ghana,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.knust.edu.gh,Ghana,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,13
+www.ug.edu.gh,Ghana,42235 Intra Data Communication,,Mozambique,-18.25,35.0,14
+www.ug.edu.gh,Ghana,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.ug.edu.gh,Ghana,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,14
+www.univ-bejaia.dz,Algeria,42235 Intra Data Communication,,Mozambique,-18.25,35.0,19
+www.univ-bejaia.dz,Algeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,16
+www.univ-bejaia.dz,Algeria,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,17
+www.univ-tlemcen.dz,Algeria,42235 Intra Data Communication,,Mozambique,-18.25,35.0,24
+www.univ-tlemcen.dz,Algeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,21
+www.univ-tlemcen.dz,Algeria,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,22
+www.uca.ma,Morocco,42235 Intra Data Communication,,Mozambique,-18.25,35.0,15
+www.uca.ma,Morocco,3491 PCCW Global Inc.,,United States,37.751,-97.822,10
+www.uca.ma,Morocco,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,13
+www.uaq.ma,Morocco,42235 Intra Data Communication,,Mozambique,-18.25,35.0,16
+www.uaq.ma,Morocco,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.uaq.ma,Morocco,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,15
+www.ugb.sn,Senegal,42235 Intra Data Communication,,Mozambique,-18.25,35.0,22
+www.ugb.sn,Senegal,3491 PCCW Global Inc.,,United States,37.751,-97.822,14
+www.ugb.sn,Senegal,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,18
+www.ucad.sn,Senegal,42235 Intra Data Communication,,Mozambique,-18.25,35.0,18
+www.ucad.sn,Senegal,3491 PCCW Global Inc.,,United States,37.751,-97.822,10
+www.ucad.sn,Senegal,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,14
+www.ku.ac.ke,Kenya,42235 Intra Data Communication,,Mozambique,-18.25,35.0,20
+www.ku.ac.ke,Kenya,3491 PCCW Global Inc.,,United States,37.751,-97.822,14
+www.ku.ac.ke,Kenya,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,15
+www.uonbi.ac.ke,Kenya,42235 Intra Data Communication,,Mozambique,-18.25,35.0,15
+www.uonbi.ac.ke,Kenya,3491 PCCW Global Inc.,,United States,37.751,-97.822,9
+www.uonbi.ac.ke,Kenya,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,9
+www.unilag.edu.ng,Nigeria,42235 Intra Data Communication,,Mozambique,-18.25,35.0,17
+www.unilag.edu.ng,Nigeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,14
+www.unilag.edu.ng,Nigeria,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,11
+www.abu.edu.ng,Nigeria,42235 Intra Data Communication,,Mozambique,-18.25,35.0,16
+www.abu.edu.ng,Nigeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,9
+www.abu.edu.ng,Nigeria,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,14
+www.cu.edu.eg,Egypt,42235 Intra Data Communication,,Mozambique,-18.25,35.0,15
+www.cu.edu.eg,Egypt,3491 PCCW Global Inc.,,United States,37.751,-97.822,11
+www.cu.edu.eg,Egypt,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,15
+www.aucegypt.edu,Egypt,42235 Intra Data Communication,,Mozambique,-18.25,35.0,14
+www.aucegypt.edu,Egypt,3491 PCCW Global Inc.,,United States,37.751,-97.822,9
+www.aucegypt.edu,Egypt,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,21
+www.uwc.ac.za,SA,42235 Intra Data Communication,,Mozambique,-18.25,35.0,14
+www.uwc.ac.za,SA,3491 PCCW Global Inc.,,United States,37.751,-97.822,11
+www.uwc.ac.za,SA,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,13
+www.uct.ac.za,SA,42235 Intra Data Communication,,Mozambique,-18.25,35.0,18
+www.uct.ac.za,SA,3491 PCCW Global Inc.,,United States,37.751,-97.822,15
+www.uct.ac.za,SA,31960 EMUNET,Maputo,Mozambique,-25.9653,32.5892,17
+www.sua.ac.tz,Tanzania,3491 PCCW Global Inc.,,United States,37.751,-97.822,11
+www.sua.ac.tz,Tanzania,327814 Ecoband,,Ghana,8.0,-2.0,18
+www.sua.ac.tz,Tanzania,30997 GIXA-AS,,Ghana,8.0,-2.0,19
+www.udsm.ac.tz,Tanzania,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.udsm.ac.tz,Tanzania,327814 Ecoband,,Ghana,8.0,-2.0,13
+www.udsm.ac.tz,Tanzania,30997 GIXA-AS,,Ghana,8.0,-2.0,17
+www.up.ac.mz,Mozambique,3491 PCCW Global Inc.,,United States,37.751,-97.822,24
+www.up.ac.mz,Mozambique,327814 Ecoband,,Ghana,8.0,-2.0,27
+www.up.ac.mz,Mozambique,30997 GIXA-AS,,Ghana,8.0,-2.0,18
+www.uem.mz,Mozambique,3491 PCCW Global Inc.,,United States,37.751,-97.822,11
+www.uem.mz,Mozambique,327814 Ecoband,,Ghana,8.0,-2.0,14
+www.uem.mz,Mozambique,30997 GIXA-AS,,Ghana,8.0,-2.0,16
+www.univ-bejaia.dz,Algeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,16
+www.univ-bejaia.dz,Algeria,327814 Ecoband,,Ghana,8.0,-2.0,20
+www.univ-bejaia.dz,Algeria,30997 GIXA-AS,,Ghana,8.0,-2.0,19
+www.univ-tlemcen.dz,Algeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,21
+www.univ-tlemcen.dz,Algeria,327814 Ecoband,,Ghana,8.0,-2.0,25
+www.univ-tlemcen.dz,Algeria,30997 GIXA-AS,,Ghana,8.0,-2.0,24
+www.uca.ma,Morocco,3491 PCCW Global Inc.,,United States,37.751,-97.822,10
+www.uca.ma,Morocco,327814 Ecoband,,Ghana,8.0,-2.0,17
+www.uca.ma,Morocco,30997 GIXA-AS,,Ghana,8.0,-2.0,17
+www.uaq.ma,Morocco,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.uaq.ma,Morocco,327814 Ecoband,,Ghana,8.0,-2.0,16
+www.uaq.ma,Morocco,30997 GIXA-AS,,Ghana,8.0,-2.0,16
+www.ugb.sn,Senegal,3491 PCCW Global Inc.,,United States,37.751,-97.822,14
+www.ugb.sn,Senegal,327814 Ecoband,,Ghana,8.0,-2.0,19
+www.ugb.sn,Senegal,30997 GIXA-AS,,Ghana,8.0,-2.0,19
+www.ucad.sn,Senegal,3491 PCCW Global Inc.,,United States,37.751,-97.822,10
+www.ucad.sn,Senegal,327814 Ecoband,,Ghana,8.0,-2.0,15
+www.ucad.sn,Senegal,30997 GIXA-AS,,Ghana,8.0,-2.0,15
+www.ku.ac.ke,Kenya,3491 PCCW Global Inc.,,United States,37.751,-97.822,14
+www.ku.ac.ke,Kenya,327814 Ecoband,,Ghana,8.0,-2.0,16
+www.ku.ac.ke,Kenya,30997 GIXA-AS,,Ghana,8.0,-2.0,20
+www.uonbi.ac.ke,Kenya,3491 PCCW Global Inc.,,United States,37.751,-97.822,9
+www.uonbi.ac.ke,Kenya,327814 Ecoband,,Ghana,8.0,-2.0,11
+www.uonbi.ac.ke,Kenya,30997 GIXA-AS,,Ghana,8.0,-2.0,15
+www.unilag.edu.ng,Nigeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,12
+www.unilag.edu.ng,Nigeria,327814 Ecoband,,Ghana,8.0,-2.0,9
+www.unilag.edu.ng,Nigeria,30997 GIXA-AS,,Ghana,8.0,-2.0,6
+www.abu.edu.ng,Nigeria,3491 PCCW Global Inc.,,United States,37.751,-97.822,9
+www.abu.edu.ng,Nigeria,327814 Ecoband,,Ghana,8.0,-2.0,14
+www.abu.edu.ng,Nigeria,30997 GIXA-AS,,Ghana,8.0,-2.0,14
+www.cu.edu.eg,Egypt,3491 PCCW Global Inc.,,United States,37.751,-97.822,11
+www.cu.edu.eg,Egypt,327814 Ecoband,,Ghana,8.0,-2.0,18
+www.cu.edu.eg,Egypt,30997 GIXA-AS,,Ghana,8.0,-2.0,15
+www.aucegypt.edu,Egypt,3491 PCCW Global Inc.,,United States,37.751,-97.822,10
+www.aucegypt.edu,Egypt,327814 Ecoband,,Ghana,8.0,-2.0,22
+www.aucegypt.edu,Egypt,30997 GIXA-AS,,Ghana,8.0,-2.0,17
+www.uwc.ac.za,SA,3491 PCCW Global Inc.,,United States,37.751,-97.822,11
+www.uwc.ac.za,SA,327814 Ecoband,,Ghana,8.0,-2.0,13
+www.uwc.ac.za,SA,30997 GIXA-AS,,Ghana,8.0,-2.0,14
+www.uct.ac.za,SA,3491 PCCW Global Inc.,,United States,37.751,-97.822,15
+www.uct.ac.za,SA,327814 Ecoband,,Ghana,8.0,-2.0,17
+www.uct.ac.za,SA,30997 GIXA-AS,,Ghana,8.0,-2.0,18
+www.sua.ac.tz,Tanzania,3208 ARN,,Algeria,36.7642,3.1468,13
+www.sua.ac.tz,Tanzania,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,12
+www.sua.ac.tz,Tanzania,3208 ARN,,Algeria,36.7642,3.1468,14
+www.udsm.ac.tz,Tanzania,3208 ARN,,Algeria,36.7642,3.1468,20
+www.udsm.ac.tz,Tanzania,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,17
+www.udsm.ac.tz,Tanzania,3208 ARN,,Algeria,36.7642,3.1468,19
+www.up.ac.mz,Mozambique,3208 ARN,,Algeria,36.7642,3.1468,22
+www.up.ac.mz,Mozambique,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,19
+www.up.ac.mz,Mozambique,3208 ARN,,Algeria,36.7642,3.1468,21
+www.uem.mz,Mozambique,3208 ARN,,Algeria,36.7642,3.1468,20
+www.uem.mz,Mozambique,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,17
+www.uem.mz,Mozambique,3208 ARN,,Algeria,36.7642,3.1468,23
+www.knust.edu.gh,Ghana,3208 ARN,,Algeria,36.7642,3.1468,17
+www.knust.edu.gh,Ghana,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,18
+www.knust.edu.gh,Ghana,3208 ARN,,Algeria,36.7642,3.1468,16
+www.ug.edu.gh,Ghana,3208 ARN,,Algeria,36.7642,3.1468,23
+www.ug.edu.gh,Ghana,3208 ARN,,Algeria,36.7642,3.1468,22
+www.ug.edu.gh,Ghana,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,12
+www.uca.ma,Morocco,3208 ARN,,Algeria,36.7642,3.1468,18
+www.uca.ma,Morocco,3208 ARN,,Algeria,36.7642,3.1468,18
+www.uca.ma,Morocco,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,13
+www.uaq.ma,Morocco,3208 ARN,,Algeria,36.7642,3.1468,17
+www.uaq.ma,Morocco,3208 ARN,,Algeria,36.7642,3.1468,16
+www.uaq.ma,Morocco,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,14
+www.ugb.sn,Senegal,3208 ARN,,Algeria,36.7642,3.1468,24
+www.ugb.sn,Senegal,3208 ARN,,Algeria,36.7642,3.1468,22
+www.ugb.sn,Senegal,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,16
+www.ucad.sn,Senegal,3208 ARN,,Algeria,36.7642,3.1468,20
+www.ucad.sn,Senegal,3208 ARN,,Algeria,36.7642,3.1468,18
+www.ucad.sn,Senegal,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,12
+www.ku.ac.ke,Kenya,3208 ARN,,Algeria,36.7642,3.1468,21
+www.ku.ac.ke,Kenya,3208 ARN,,Algeria,36.7642,3.1468,16
+www.ku.ac.ke,Kenya,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,19
+www.uonbi.ac.ke,Kenya,3208 ARN,,Algeria,36.7642,3.1468,15
+www.uonbi.ac.ke,Kenya,3208 ARN,,Algeria,36.7642,3.1468,16
+www.uonbi.ac.ke,Kenya,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,15
+www.unilag.edu.ng,Nigeria,3208 ARN,,Algeria,36.7642,3.1468,18
+www.unilag.edu.ng,Nigeria,3208 ARN,,Algeria,36.7642,3.1468,17
+www.unilag.edu.ng,Nigeria,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,16
+www.abu.edu.ng,Nigeria,3208 ARN,,Algeria,36.7642,3.1468,18
+www.abu.edu.ng,Nigeria,3208 ARN,,Algeria,36.7642,3.1468,17
+www.abu.edu.ng,Nigeria,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,13
+www.cu.edu.eg,Egypt,3208 ARN,,Algeria,36.7642,3.1468,19
+www.cu.edu.eg,Egypt,3208 ARN,,Algeria,36.7642,3.1468,18
+www.cu.edu.eg,Egypt,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,15
+www.aucegypt.edu,Egypt,3208 ARN,,Algeria,36.7642,3.1468,23
+www.aucegypt.edu,Egypt,3208 ARN,,Algeria,36.7642,3.1468,13
+www.aucegypt.edu,Egypt,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,15
+www.uwc.ac.za,SA,3208 ARN,,Algeria,36.7642,3.1468,19
+www.uwc.ac.za,SA,3208 ARN,,Algeria,36.7642,3.1468,16
+www.uwc.ac.za,SA,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,16
+www.uct.ac.za,SA,3208 ARN,,Algeria,36.7642,3.1468,24
+www.uct.ac.za,SA,3208 ARN,,Algeria,36.7642,3.1468,16
+www.uct.ac.za,SA,36947 Telecom Algeria,Algiers,Algeria,36.7323,3.0875,20
+www.sua.ac.tz,Tanzania,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,13
+www.sua.ac.tz,Tanzania,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,13
+www.sua.ac.tz,Tanzania,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,13
+www.udsm.ac.tz,Tanzania,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,18
+www.udsm.ac.tz,Tanzania,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,18
+www.udsm.ac.tz,Tanzania,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,18
+www.up.ac.mz,Mozambique,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,20
+www.up.ac.mz,Mozambique,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,20
+www.up.ac.mz,Mozambique,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,20
+www.uem.mz,Mozambique,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,18
+www.uem.mz,Mozambique,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,18
+www.uem.mz,Mozambique,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,18
+www.knust.edu.gh,Ghana,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,14
+www.knust.edu.gh,Ghana,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,15
+www.knust.edu.gh,Ghana,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,15
+www.ug.edu.gh,Ghana,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,19
+www.ug.edu.gh,Ghana,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,19
+www.ug.edu.gh,Ghana,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,19
+www.univ-bejaia.dz,Algeria,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,18
+www.univ-bejaia.dz,Algeria,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,18
+www.univ-bejaia.dz,Algeria,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,18
+www.univ-tlemcen.dz,Algeria,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,23
+www.univ-tlemcen.dz,Algeria,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,23
+www.univ-tlemcen.dz,Algeria,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,23
+www.ugb.sn,Senegal,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,18
+www.ugb.sn,Senegal,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,18
+www.ugb.sn,Senegal,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,18
+www.ucad.sn,Senegal,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,15
+www.ucad.sn,Senegal,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,15
+www.ucad.sn,Senegal,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,15
+www.ku.ac.ke,Kenya,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,20
+www.ku.ac.ke,Kenya,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,20
+www.ku.ac.ke,Kenya,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,20
+www.uonbi.ac.ke,Kenya,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,15
+www.uonbi.ac.ke,Kenya,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,15
+www.uonbi.ac.ke,Kenya,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,15
+www.unilag.edu.ng,Nigeria,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,17
+www.unilag.edu.ng,Nigeria,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,17
+www.unilag.edu.ng,Nigeria,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,17
+www.abu.edu.ng,Nigeria,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,13
+www.abu.edu.ng,Nigeria,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,13
+www.abu.edu.ng,Nigeria,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,13
+www.cu.edu.eg,Egypt,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,14
+www.cu.edu.eg,Egypt,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,16
+www.cu.edu.eg,Egypt,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,14
+www.aucegypt.edu,Egypt,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,25
+www.aucegypt.edu,Egypt,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,25
+www.aucegypt.edu,Egypt,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,25
+www.uwc.ac.za,SA,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,17
+www.uwc.ac.za,SA,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,17
+www.uwc.ac.za,SA,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,17
+www.uct.ac.za,SA,36903 MT-MPLS,Rabat,Morocco,34.0123,-6.8484,21
+www.uct.ac.za,SA,36903 MT-MPLS,Agadir,Morocco,30.4207,-9.5932,21
+www.uct.ac.za,SA,6713 Itissalat Al-MAGHRIB,Bouknadel,Morocco,34.1185,-6.7389,21
+www.sua.ac.tz,Tanzania,8452 TE-AS,,Egypt,30.0355,31.223,18
+www.sua.ac.tz,Tanzania,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,17
+www.sua.ac.tz,Tanzania,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.udsm.ac.tz,Tanzania,8452 TE-AS,,Egypt,30.0355,31.223,17
+www.udsm.ac.tz,Tanzania,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,16
+www.udsm.ac.tz,Tanzania,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.up.ac.mz,Mozambique,8452 TE-AS,,Egypt,30.0355,31.223,23
+www.up.ac.mz,Mozambique,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,15
+www.up.ac.mz,Mozambique,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.uem.mz,Mozambique,8452 TE-AS,,Egypt,30.0355,31.223,19
+www.uem.mz,Mozambique,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,18
+www.uem.mz,Mozambique,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.knust.edu.gh,Ghana,8452 TE-AS,,Egypt,30.0355,31.223,18
+www.knust.edu.gh,Ghana,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,17
+www.knust.edu.gh,Ghana,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.ug.edu.gh,Ghana,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,17
+www.ug.edu.gh,Ghana,8452 TE-AS,,Egypt,30.0355,31.223,18
+www.ug.edu.gh,Ghana,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.univ-bejaia.dz,Algeria,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,17
+www.univ-bejaia.dz,Algeria,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.univ-bejaia.dz,Algeria,8452 TE-AS,,Egypt,30.0355,31.223,20
+www.univ-tlemcen.dz,Algeria,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,17
+www.univ-tlemcen.dz,Algeria,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.univ-tlemcen.dz,Algeria,8452 TE-AS,,Egypt,30.0355,31.223,25
+www.uca.ma,Morocco,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,14
+www.uca.ma,Morocco,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.uca.ma,Morocco,8452 TE-AS,,Egypt,30.0355,31.223,15
+www.uaq.ma,Morocco,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,12
+www.uaq.ma,Morocco,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.uaq.ma,Morocco,8452 TE-AS,,Egypt,30.0355,31.223,17
+www.ugb.sn,Senegal,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,18
+www.ugb.sn,Senegal,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.ugb.sn,Senegal,8452 TE-AS,,Egypt,30.0355,31.223,20
+www.ucad.sn,Senegal,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,14
+www.ucad.sn,Senegal,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.ucad.sn,Senegal,8452 TE-AS,,Egypt,30.0355,31.223,14
+www.ku.ac.ke,Kenya,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,13
+www.ku.ac.ke,Kenya,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.ku.ac.ke,Kenya,8452 TE-AS,,Egypt,30.0355,31.223,22
+www.uonbi.ac.ke,Kenya,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,12
+www.uonbi.ac.ke,Kenya,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.uonbi.ac.ke,Kenya,8452 TE-AS,,Egypt,30.0355,31.223,17
+www.unilag.edu.ng,Nigeria,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,16
+www.unilag.edu.ng,Nigeria,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.unilag.edu.ng,Nigeria,8452 TE-AS,,Egypt,30.0355,31.223,18
+www.abu.edu.ng,Nigeria,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,14
+www.abu.edu.ng,Nigeria,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.abu.edu.ng,Nigeria,8452 TE-AS,,Egypt,30.0355,31.223,15
+www.uwc.ac.za,SA,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,13
+www.uwc.ac.za,SA,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.uwc.ac.za,SA,8452 TE-AS,,Egypt,30.0355,31.223,19
+www.uct.ac.za,SA,8452 TE-AS,Alexandria,Egypt,31.2162,29.9529,12
+www.uct.ac.za,SA,8452 TE-AS,Cairo,Egypt,30.0778,31.2852,7
+www.uct.ac.za,SA,8452 TE-AS,,Egypt,30.0355,31.223,23

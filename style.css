@@ -66,7 +66,7 @@ g#voronoi {
 .form-control {
   display: block;
   width: 30%;
-  padding: .375rem .75rem;
+  padding: 3px;
   font-size: 1rem;
   line-height: 1.5;
   color: #495057;
@@ -78,6 +78,15 @@ g#voronoi {
   transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
+.div-control {
+  display: block;
+  width: 30%;
+  padding: 3px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  margin: 0 auto;
+}
 
 /* 13. Basic Styling with CSS */
 
@@ -115,3 +124,35 @@ g#voronoi {
   .bar:hover {
     fill: brown;
   }
+
+  .slider {
+  -webkit-appearance: none;
+  width: 10%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+  margin-top: 15px;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}

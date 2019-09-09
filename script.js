@@ -1,12 +1,23 @@
 
 var urlParams = new URLSearchParams(window.location.search);
 var filtercountry = urlParams.get('country');
+var filterrange = urlParams.get('range');
+var linksinter = "../data/linksinter"
 
-var linksinter = "../data/linksinterAll.csv"
+var interintra = "../data/nodesinter.csv"
+
+if (filterrange == 2) {
+  linksinter = "../data/linksintra"
+  interintra = "../data/nodesintra.csv"
+  $('#myRange').val(filterrange);
+}
 
 if (filtercountry != null && filtercountry != "All") {
-  linksinter = "../data/linksinter" + filtercountry + ".csv"
+  linksinter += filtercountry + ".csv"
+} else {
+  linksinter += "All.csv"
 }
+//console.log(linksinter);
 
 var urls = {
   // source: https://observablehq.com/@mbostock/u-s-airports-voronoi
@@ -15,8 +26,7 @@ var urls = {
   map: "../data/world-110m.json",
 
   // source: https://gist.github.com/mbostock/7608400
-  airports:
-    "../data/nodesinter.csv",
+  airports: interintra,
 
   // source: https://gist.github.com/mbostock/7608400
   flights: linksinter
@@ -131,6 +141,7 @@ function processData(values) {
     //console.log(filtercountry.toLowerCase());
 
     $('#sCountry').val(filtercountry);
+    
     airports = airports.filter(airport => airport.s.toLowerCase().indexOf(filtercountry.toLowerCase()) > -1);
   }
 
@@ -495,5 +506,11 @@ function getRandomColor(asn) {
 }
 
 $(document).on('change', '#sCountry', function(){
-  top.location.href = '/mapv2.html?country=' + $(this).val();
+  top.location.href = '/mapv2.html?country=' + $(this).val() + '&range=' + $('#myRange').val();
+});
+
+
+$(document).on('change', '#myRange', function(){
+  //console.log($(this).val());
+  top.location.href = '/mapv2.html?range=' + $(this).val() + "&country=" + $('#sCountry').val();
 });
